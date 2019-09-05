@@ -1,0 +1,10 @@
+
+#catLeft {
+    float: Left;
+}
+
+#items { 
+    float: right;
+    margin-left: 200px;
+    
+}
